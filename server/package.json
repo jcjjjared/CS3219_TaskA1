@@ -1,0 +1,38 @@
+{
+  "name": "taska",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Task B for CS3219 Assignment",
+  "author": {
+    "name": "Chiang Jiajun Jared"
+  },
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "_id": "taska@1.0.0",
+  "bugs": {
+    "url": "https://github.com/jcjjjared/CS3219_TaskA/issues"
+  },
+  "homepage": "https://github.com/jcjjjared/CS3219_TaskA#readme",
+  "keywords": [
+    "API",
+    "RESTful",
+    "JSON"
+  ],
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcjjjared/CS3219_TaskA.git"
+  }
+}
