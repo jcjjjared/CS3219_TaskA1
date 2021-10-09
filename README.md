@@ -10,4 +10,4 @@ References
 
 Set up:
 1. In the root of the directory, run 'docker-compose up -d --build' - This creates the server and frontend images.
-2. Once up, open your browser and go to localhost/ - The hello world page should be served by the server as nginx redirects the get request "/" to the server, which serves the static html page.
+2. Once up, open your browser and go to http://localhost:8081/ - The hello world page should be served by the server as nginx redirects the get request "/" to the server, which serves the static html page.
